@@ -1,5 +1,4 @@
 # Enterprise-Azure-FinOps-Infrastructure-Analytics-Platform
-# Enterprise Azure FinOps & Infrastructure Analytics Platform
 
 ## 📌 Project Overview
 An end-to-end Azure data engineering project focused on Cloud Financial Operations (FinOps) and IT Infrastructure monitoring. This platform ingests cloud billing and performance data, processes it using a Medallion Architecture (Bronze/Silver/Gold), and provides actionable cost-optimization insights via Power BI.
