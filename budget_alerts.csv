@@ -1,0 +1,20 @@
+alert_id,alert_date,department,month,budget_usd,actual_spend_usd,variance_usd,variance_percentage,alert_level,threshold_breached,message,action_required
+ALERT-00001,2026-04-18,Engineering,2026-01,64613.89,94689.47,30075.58,46.55,Critical,100%,Engineering exceeded monthly budget,Yes
+ALERT-00002,2026-04-18,Finance,2026-01,106010.2,103602.92,-2407.28,-2.27,Warning,80%,Finance at 80% of monthly budget,Monitor
+ALERT-00003,2026-04-18,HR,2026-01,94381.76,80992.01,-13389.75,-14.19,Warning,80%,HR at 80% of monthly budget,Monitor
+ALERT-00004,2026-04-18,Engineering,2026-02,138642.79,213189.16,74546.37,53.77,Critical,100%,Engineering exceeded monthly budget,Yes
+ALERT-00005,2026-04-18,Finance,2026-02,66852.26,223566.34,156714.08,234.42,Critical,100%,Finance exceeded monthly budget,Yes
+ALERT-00006,2026-04-18,HR,2026-02,125334.67,176313.43,50978.76,40.67,Critical,100%,HR exceeded monthly budget,Yes
+ALERT-00007,2026-04-18,Marketing,2026-02,123322.67,229490.76,106168.09,86.09,Critical,100%,Marketing exceeded monthly budget,Yes
+ALERT-00008,2026-04-18,Operations,2026-02,133220.38,153164.45,19944.07,14.97,Critical,100%,Operations exceeded monthly budget,Yes
+ALERT-00009,2026-04-18,Sales,2026-02,153695.39,145658.79,-8036.6,-5.23,Warning,80%,Sales at 80% of monthly budget,Monitor
+ALERT-00010,2026-04-18,Engineering,2026-03,198657.81,229539.91,30882.1,15.55,Critical,100%,Engineering exceeded monthly budget,Yes
+ALERT-00011,2026-04-18,Finance,2026-03,116783.69,247796.71,131013.02,112.18,Critical,100%,Finance exceeded monthly budget,Yes
+ALERT-00012,2026-04-18,HR,2026-03,59660.43,194210.71,134550.28,225.53,Critical,100%,HR exceeded monthly budget,Yes
+ALERT-00013,2026-04-18,Marketing,2026-03,165900.25,247480.4,81580.15,49.17,Critical,100%,Marketing exceeded monthly budget,Yes
+ALERT-00014,2026-04-18,Operations,2026-03,138334.97,172130.06,33795.09,24.43,Critical,100%,Operations exceeded monthly budget,Yes
+ALERT-00015,2026-04-18,Sales,2026-03,50673.22,165934.12,115260.9,227.46,Critical,100%,Sales exceeded monthly budget,Yes
+ALERT-00016,2026-04-18,Engineering,2026-04,124597.12,135614.44,11017.32,8.84,Critical,100%,Engineering exceeded monthly budget,Yes
+ALERT-00017,2026-04-18,Finance,2026-04,90557.97,144635.27,54077.3,59.72,Critical,100%,Finance exceeded monthly budget,Yes
+ALERT-00018,2026-04-18,Marketing,2026-04,161839.16,146675.56,-15163.6,-9.37,Warning,80%,Marketing at 80% of monthly budget,Monitor
+ALERT-00019,2026-04-18,Operations,2026-04,78924.43,99257.63,20333.2,25.76,Critical,100%,Operations exceeded monthly budget,Yes
